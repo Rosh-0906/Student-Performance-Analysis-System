@@ -1,4 +1,4 @@
-# 🎓 Student Performance Analysis System
+# Student Performance Analysis System
 
 ## About the Project
 
@@ -95,10 +95,10 @@ python main.py
 
 The application provides a simple dashboard that includes:
 
-- 📊 Student Marks
-- 📈 Attendance Percentage
-- 🥧 Grade Distribution
-- 📚 Subject-wise Average Marks
+- Student Marks
+- Attendance Percentage
+- Grade Distribution
+- Subject-wise Average Marks
 
 These charts are created using Pandas and Matplotlib to make student performance easier to understand.
 
