@@ -42,8 +42,7 @@ Student-Performance-Analysis-System/
 │
 ├── main.py
 ├── students.sql
-├── README.md
-└── screenshots/Performance Dashboard - Fig
+└── README.md
 ```
 
 ---
