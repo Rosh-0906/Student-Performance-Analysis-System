@@ -1,6 +1,6 @@
 # Student Performance Analysis System
 
-## About the Project
+## A Beginner Learnings
 
 The Student Performance Analysis System is a Python-based application developed to manage student academic records and analyze their performance. It allows users to perform basic CRUD (Create, Read, Update, Delete) operations on student data stored in a MySQL database.
 
