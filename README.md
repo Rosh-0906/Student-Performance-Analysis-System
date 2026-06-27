@@ -37,13 +37,13 @@ This project was built as a learning project to improve my understanding of Pyth
 
 ## Project Structure
 
-```
+
 Student-Performance-Analysis-System/
 │
 ├── main.py
 ├── students.sql
 ├── README.md
-└── screenshots/
+└── screenshots/Performance Dashboard - Fig
 ```
 
 ---
